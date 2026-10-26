@@ -4,8 +4,6 @@ An interactive Power BI dashboard analyzing monthly climate indicators across **
 
 ![Dashboard](dashboard.png)
 
-> **Note:** This project uses a simulated training dataset provided for a Power BI class activity at atomcamp. The values are for analytics practice and are not official climate measurements.
-
 ## Objective
 
 Clean, model, analyze, and visualize climate indicators to answer questions such as:
