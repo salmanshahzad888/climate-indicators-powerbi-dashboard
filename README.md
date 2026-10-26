@@ -87,7 +87,7 @@ High Risk Months = CALCULATE(COUNTROWS('Climate Observations'), 'Climate Observa
 | File | Description |
 |---|---|
 | `Climate_Change_Dashboard.pbix` | Power BI report file |
-| `Climate_Change_PowerBI_Dataset_assignment.xlsx` | Source dataset |
+| `Climate_Change_PowerBI_Dataset.xlsx` | Source dataset |
 | `dashboard.png` | Dashboard screenshot |
 | `data_model.png` | Data model screenshot |
 | `README.md` | Project documentation |
