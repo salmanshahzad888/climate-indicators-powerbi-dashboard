@@ -98,6 +98,10 @@ High Risk Months = CALCULATE(COUNTROWS('Climate Observations'), 'Climate Observa
 2. Open it in Power BI Desktop (free).
 3. Use the slicers to filter by country, city, year, or climate risk level, and drill into the rainfall chart to see monthly patterns.
 
-## Author
+## 👤 Author
 
-**Salman Shahzad**, Data Analyst · [LinkedIn](https://www.linkedin.com/in/salmanshahzad888)
+**Salman Shahzad** — Data Analyst
+
+[LinkedIn](https://www.linkedin.com/in/salmanshahzad888)
+
+[![GitHub](https://img.shields.io/badge/GitHub-salmanshahzad888-181717?logo=github)](https://github.com/salmanshahzad888)
